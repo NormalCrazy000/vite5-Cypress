@@ -2,5 +2,5 @@
 ### Comand to reproduce the bug:
 
 
-npm install
-npx cypress open
+##### npm install
+##### npx cypress open
